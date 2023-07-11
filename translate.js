@@ -5,5 +5,5 @@ function loadJsCode(code) {
                     script.appendChild(document.createTextNode(code));
                     //for IE
                     //script.text = code;
-                    document.body.appendChild(script);
+                    document.body。appendChild(script);
 }
